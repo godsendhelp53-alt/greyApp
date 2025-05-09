@@ -1,3 +1,3 @@
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://grey-api-nu.vercel.app";
 
 export default BASE_URL;
